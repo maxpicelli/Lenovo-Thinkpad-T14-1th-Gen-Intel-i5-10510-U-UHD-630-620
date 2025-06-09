@@ -104,9 +104,9 @@ To compile the custom kexts:
 - CSM → **Disabled**
 
 ---
-
-## Special thanks @Credits
-
+## Credits
+## Special thanks // 
+- [@hnanoto](https://github.com/hnanoto) – Contributions, patches and tools by Hackintosh and Beyond channel 
 - [RehabMan](https://github.com/RehabMan) – SSDTs, FakeSMC and sensor plugins
 - [Acidanthera](https://github.com/acidanthera) – OpenCore, VirtualSMC, AirportItlwm
 - [@maxpicelli](https://github.com/maxpicelli) – Structure, testing and README
